@@ -7,5 +7,5 @@
 For:
 
 - [Developers](devs.md)
-- AI specialists
+- [AI specialists](ai.md)
 - Cloud native
